@@ -1,0 +1,136 @@
+$ python ./main.py
+Chart container found: True
+Number of chart items: 14
+Item 0 HTML: <li class="o-chart-results-list__item // lrv-u-color-black u-width-55 u-width-45px@mobile-max lrv-u-flex lrv-u-flex-direction-column lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-conte
+nt-...
+Item 1 HTML: <li class="o-chart-results-list__item // u-width-200 u-width-100@tablet-only u-width-80px@mobile-max">
+ <div class="c-lazy-image lrv-u-width-200 u-width-80px@mobile-max u-width-100@tablet-only u-borde...
+Item 2 HTML: <li class="o-chart-results-list__item // lrv-u-flex u-flex-grow-1@mobile-max lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center u-width-40 u-hidden@mobile-max">
+ <div class="c-s...
+Item 3 HTML: <li class="o-chart-results-list__item // lrv-u-flex-grow-1 lrv-u-flex lrv-u-flex-direction-column lrv-u-justify-content-center lrv-u-padding-l-00@mobile-max u-max-width-397">
+ <h3 class="c-title a-fon...
+Item 4 HTML: <li class="o-chart-results-list__item // a-chart-bg-color a-chart-color u-width-72 u-width-31@mobile-max u-width-55@tablet-only lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify
+-co...
+Item 5 HTML: <li class="o-chart-results-list__item // a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center u-hidden@mobile-max">
+ <span class="c-label u-font-family-se...
+Item 6 HTML: <li class="o-chart-results-list__item // a-chart-bg-color a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center u-hidden@mobile-max">
+ <span class="c-label...
+Item 7 HTML: <li class="o-chart-results-list__item // a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center u-hidden@mobile-max">
+ <span class="c-label u-font-family-se...
+Item 8 HTML: <li class="o-chart-results-list__item // u-width-66 u-width-30@mobile-max u-width-55@tablet-only lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center u-hidden@mobile
+-ma...
+Item 9 HTML: <li class="o-chart-results-list__item // a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center">
+ <span class="c-label u-font-family-secondary@mobile-max u...
+Item 10 HTML: <li class="o-chart-results-list__item // a-chart-bg-color a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center">
+ <span class="c-label u-font-family-secon...
+Item 11 HTML: <li class="o-chart-results-list__item // a-chart-color lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center">
+ <span class="c-label u-font-family-secondary@mobile-max u...
+Item 12 HTML: <li class="o-chart-results-list__item // a-chart-bg-color a-chart-color u-width-72 u-width-31@mobile-max u-width-55@tablet-only lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justif
+y-co...
+Item 13 HTML: <li class="o-chart-results-list__item // u-width-66 u-width-30@mobile-max u-width-55@tablet-only lrv-u-flex lrv-u-flex-shrink-0 lrv-u-align-items-center lrv-u-justify-content-center">
+ <div class="a-c...
+Item 0: Song element found: False, Artist element found: True
+Item 1: Song element found: False, Artist element found: False
+Item 2: Song element found: False, Artist element found: False
+Item 3: Song element found: True, Artist element found: True
+Item 4: Song element found: False, Artist element found: False
+Item 5: Song element found: False, Artist element found: True
+Item 6: Song element found: False, Artist element found: True
+Item 7: Song element found: False, Artist element found: True
+Item 8: Song element found: False, Artist element found: False
+Item 9: Song element found: False, Artist element found: True
+Item 10: Song element found: False, Artist element found: True
+Item 11: Song element found: False, Artist element found: True
+Item 12: Song element found: False, Artist element found: False
+Item 13: Song element found: False, Artist element found: False
+Selected chart item HTML: <li class="o-chart-results-list__item // lrv-u-flex-grow-1 lrv-u-flex lrv-u-flex-direction-column lrv-u-justify-content-center lrv-u-padding-l-00@mobile-max u-max-width-397">
+ <h3 class="c-title a-font-basic u-letter-spacing-0010 u-max-width-397 lrv-u-font-size-16 lrv-u-font-size-14@mobile-max u-line-height-22px u-word-spacing-0063 u-line-height-normal@mobile-max a-truncate-ellipsis
+-2line lrv-u-margin-b-025 lrv-u-margin-b-00@mobile-max" id="title-of-a-story">
+  Ordinary
+ </h3>
+ <span class="c-label a-no-trucate a-font-secondary u-font-size-15 u-font-size-13@mobile-max u-line-height-18px@mobile-max u-letter-spacing-0010 u-line-height-21px a-children-link-color-black a-children-link-co
+lor-brand-secondary:hover lrv-a-children-link-decoration-underline:hover lrv-u-display-block a-truncate-ellipsis-2line u-max-width-397 u-max-width-230@tablet-only u-max-width-300@mobile-max">
+  <a href="https://www.billboard.com/artist/alex-warren/">
+   Alex Warren
+  </a>
+ </span>
+</li>
+
+Scraped song: Ordinary, artist: Alex Warren
+Entering start_ngrok with port: 8888
+Checking for existing ngrok session...
+Existing session check failed or Web Interface unavailable: HTTPConnectionPool(host='127.0.0.1', port=4040): Max retries exceeded with url: /api/tunnels (Caused by NewConnectionError('<urllib3.connection.HTTPCo
+nnection object at 0x000001F76DB59A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+No existing tunnel detected or check failed, starting new ngrok on port: 8888
+New ngrok process started: <Popen: returncode: None args: ['ngrok', 'http', '8888']>
+Querying ngrok Web Interface for tunnel...
+API response (new tunnel): {
+  "tunnels": [
+    {
+      "name": "command_line",
+      "ID": "8d25a84018672be2f0eb0c1e3327d836",
+      "uri": "/api/tunnels/command_line",
+      "public_url": "https://27d8773e2d1f.ngrok-free.app",
+      "proto": "https",
+      "config": {
+        "addr": "http://localhost:8888",
+        "inspect": true
+      },
+      "metrics": {
+        "conns": {
+          "count": 0,
+          "gauge": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        },
+        "http": {
+          "count": 0,
+          "rate1": 0,
+          "rate5": 0,
+          "rate15": 0,
+          "p50": 0,
+          "p90": 0,
+          "p95": 0,
+          "p99": 0
+        }
+      }
+    }
+  ],
+  "uri": "/api/tunnels"
+}
+Found tunnel: {'name': 'command_line', 'ID': '8d25a84018672be2f0eb0c1e3327d836', 'uri': '/api/tunnels/command_line', 'public_url': 'https://27d8773e2d1f.ngrok-free.app', 'proto': 'https', 'config': {'addr': 'ht
+tp://localhost:8888', 'inspect': True}, 'metrics': {'conns': {'count': 0, 'gauge': 0, 'rate1': 0, 'rate5': 0, 'rate15': 0, 'p50': 0, 'p90': 0, 'p95': 0, 'p99': 0}, 'http': {'count': 0, 'rate1': 0, 'rate5': 0, '
+rate15': 0, 'p50': 0, 'p90': 0, 'p95': 0, 'p99': 0}}}
+Matched tunnel with URL: https://27d8773e2d1f.ngrok-free.app process: <Popen: returncode: None args: ['ngrok', 'http', '8888']>
+Forwarding URL: https://27d8773e2d1f.ngrok-free.app
+ngrok process: <Popen: returncode: None args: ['ngrok', 'http', '8888']>
+Started new ngrok process.
+Using dynamic redirect URI: https://27d8773e2d1f.ngrok-free.app/callback
+Pause to update Spotify Dashboard:
+Update the Spotify Developer Dashboard with the new redirect URI and press Enter to continue...
+If the browser does not open automatically, please visit this URL to log in and approve the app:
+https://accounts.spotify.com/authorize?client_id=b9a9a432d2704a58bbccf348cac3894e&response_type=code&redirect_uri=https://27d8773e2d1f.ngrok-free.app/callback&scope=playlist-modify-public+playlist-read-private
+ * Serving Flask app 'main'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8888
+ * Running on http://192.168.1.246:8888
+Press CTRL+C to quit
+Callback received with code: AQDdZfKqncM63sHBJ_JhrkLaezpRW1pS2Tc5h6gCEhtoDeY5WIQwyAFE2nSHHSJqb6unLY9HydRyqaODxFqbez-l6s0vkbukb6lyc6lzxX70jlJMwMXbZn45Qf5gvoGYiGxrYYWeMvLzHJVFWYs4LvwTwtWdRWVqsWakIgrKYZtxKwPgVHd_b
+cVNTRnHeajPOPhOpaKs7PeyVnmlnZMDCH6rJGpGJZnw6nICkZQtUOAggVO7hJnowx5HHoagsOA
+127.0.0.1 - - [06/Aug/2025 13:32:08] "GET /callback?code=AQDdZfKqncM63sHBJ_JhrkLaezpRW1pS2Tc5h6gCEhtoDeY5WIQwyAFE2nSHHSJqb6unLY9HydRyqaODxFqbez-l6s0vkbukb6lyc6lzxX70jlJMwMXbZn45Qf5gvoGYiGxrYYWeMvLzHJVFWYs4LvwTw
+tWdRWVqsWakIgrKYZtxKwPgVHd_bcVNTRnHeajPOPhOpaKs7PeyVnmlnZMDCH6rJGpGJZnw6nICkZQtUOAggVO7hJnowx5HHoagsOA HTTP/1.1" 200 -
+127.0.0.1 - - [06/Aug/2025 13:32:08] "GET /favicon.ico HTTP/1.1" 404 -
+Received code: AQDdZfKqncM63sHBJ_JhrkLaezpRW1pS2Tc5h6gCEhtoDeY5WIQwyAFE2nSHHSJqb6unLY9HydRyqaODxFqbez-l6s0vkbukb6lyc6lzxX70jlJMwMXbZn45Qf5gvoGYiGxrYYWeMvLzHJVFWYs4LvwTwtWdRWVqsWakIgrKYZtxKwPgVHd_bcVNTRnHeajPOPh
+OpaKs7PeyVnmlnZMDCH6rJGpGJZnw6nICkZQtUOAggVO7hJnowx5HHoagsOA
+G:\Projects\Project1\main.py:98: DeprecationWarning: You're using 'as_dict = True'.get_access_token will return the token string directly in future versions. Please adjust your code accordingly, or use get_cach
+ed_token instead.
+  token_info = sp_oauth.get_access_token(code=code[0])
+Added Ordinary by Alex Warren to playlist
+
